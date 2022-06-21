@@ -12,7 +12,16 @@
     margin-left: auto;
     box-sizing: border-box;
     color: rgb(255, 255, 255);
-    padding: auto;
+    padding: 5px 20px;
+}
+.jumbotron button{
+    margin: auto;
+    margin-top: 10px;
+
+}
+.jumbotron h1{
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 2px 2px 4px black;
 }
 .container .card{
     border-radius: 8px;
