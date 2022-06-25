@@ -20,7 +20,7 @@
 
 }
 .jumbotron h1{
-    font-family: 'Permanent Marker', cursive;
+    /* font-family: 'Permanent Marker', cursive; */
     text-shadow: 2px 2px 4px black;
 }
 .container .card{
